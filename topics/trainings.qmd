@@ -94,7 +94,7 @@ The data package offers a powerpoint and general guidelines in hosting the works
 
 - URL: <https://doi.org/10.5281/zenodo.10174000>
 - Licence: CC-BY-4.0
-- Topics: Metadata, Contextual metadata, LEGO, Workshop
+- Topics: Metadata, Contextual metadata, metadata, LEGO, Workshop
 - Target audience: Researchers
 - Status: Active
 - Duration: 30-90 minutes
@@ -167,7 +167,7 @@ The lessons are designed for programming beginners and do not require any experi
 - Topics: Coding, Software skills, Python, R, Bash, Unix Shell, Git, GitHub, Version control
 - Target audience: Researchers, students
 - Status: Available on set moments
-- Duration: 28 hours over four days
+- Duration: 28 hours (1 ECT) over four days
 - Online/in-person: In-person and online (self-study)
 
 ## Writing a Data Management Plan
@@ -178,9 +178,9 @@ The course consists of 2 online workshops and an online peer review session. Ple
 
 ---
 
-- URL:
-- Topics:
+- URL: https://vu.nl/en/education/phd-courses
+- Topics: Research data management, DMP, Workshop, FAIR, Open science, Data management plan 
 - Target audience: Researchers, PhD
 - Status: Available on set moments
-- Duration: 60 minutes
+- Duration: 28 hours (1 ECT) over two 2-hour workshops and self study
 - Online/in-person: Online
