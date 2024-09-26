@@ -114,17 +114,17 @@ The data package offers a powerpoint and general guidelines in hosting the works
 
 ## Open Science Framework (OSF) Workshop
 
-This is a hands-on course to get started with the Open Science Framework (OSF). You won't need any experience with the tool beforehand. We will show the differences and similarities between OSF and other tools at the VU (such as Yoda). We will make a preregistration of a (mock) OSF research.
+This is a hands-on course to get started with the Open Science Framework (OSF) <https://osf.io/ab923/>. You won't need any experience with the tool beforehand. We will show the differences and similarities between OSF and other tools at the VU (such as Yoda). We will make a preregistration of a (mock) OSF research.
 
 The OSF is an open-source project management tool that supports researchers throughout their entire project lifecycle. As a collaboration tool, OSF helps research teams work on projects privately or make the whole project publicly accessible for broad dissemination. As a workflow system, OSF enables connections to the many scientific tools researchers already use, streamlining their process and increasing efficiency. You may even use OSF as a portfolio tool for sharing your work as a prepublication with potential collaborators.
 
 ---
 
-- URL: <https://osf.io/ab923/>
+- URL: <https://vu-nl.libcal.com/>
 - Licence:
 - Topics: OSF, Preprint, Publishing, Archiving, RDM tools, Data management
 - Target audience: Everybody
-- Status: Bi-annually during the Support Training Days
+- Status: Available on set moments, bi-annually
 - Duration: 120 minutes
 - Online/in-person: Online
 
@@ -198,9 +198,9 @@ The course consists of 2 online workshops and an online peer review session. Ple
 
 ---
 
-- URL:
-- Topics:
+- URL: <https://vu-nl.libcal.com/>
+- Topics: Data management plan, Open science, Workshop, Research data management, FAIR
 - Target audience: Researchers, PhD
 - Status: Available on set moments
-- Duration: 60 minutes
-- Online/in-person: Online
+- Duration: 120 minutes per workshop, 28 hours (1 ETC) in total
+- Online/in-person: In-person and online
