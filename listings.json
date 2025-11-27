@@ -133,6 +133,7 @@
       "/topics/itvo.html",
       "/topics/knowledge-security.html",
       "/topics/metadata.html",
+      "/topics/ORCID.html",
       "/topics/open-science.html",
       "/topics/osf.html",
       "/topics/persistent-identifier.html",
@@ -156,8 +157,7 @@
       "/topics/trainings.html",
       "/topics/compute-hub.html",
       "/topics/yoda.html",
-      "/topics/ithenticate.html",
-      "/topics/ORCID.html"
+      "/topics/ithenticate.html"
     ]
   },
   {
