@@ -1,5 +1,38 @@
 [
   {
+    "listing": "/lifecycle/04-process-analyse.html",
+    "items": [
+      "/topics/ada.html",
+      "/topics/researchcloud.html",
+      "/topics/safe-data-transfer.html",
+      "/topics/scicloud.html",
+      "/topics/snellius.html",
+      "/topics/compute-hub.html",
+      "/guides/process-and-analyse.html",
+      "/guides/use-osf.html"
+    ]
+  },
+  {
+    "listing": "/lifecycle/02-plan-design.html",
+    "items": [
+      "/topics/data-classification.html",
+      "/topics/data-management-plan.html",
+      "/topics/data-management-section.html",
+      "/topics/ethical-review.html",
+      "/topics/gdpr.html",
+      "/topics/research-data-and-software-management-policy.html",
+      "/guides/comply-with-gdpr.html",
+      "/guides/plan-and-design.html"
+    ]
+  },
+  {
+    "listing": "/lifecycle/01-discover-initiate.html",
+    "items": [
+      "/topics/finding-existing-data.html",
+      "/guides/discover-and-initiate.html"
+    ]
+  },
+  {
     "listing": "/topics.html",
     "items": [
       "/topics/ada.html",
@@ -57,27 +90,19 @@
     ]
   },
   {
-    "listing": "/manuals/ada/index.html",
+    "listing": "/manuals.html",
     "items": [
-      "/manuals/ada/login.html",
-      "/manuals/ada/quick-start.html",
-      "/manuals/ada/software.html",
-      "/manuals/ada/slurm.html",
-      "/manuals/ada/hardware.html",
-      "/manuals/ada/open-ondemand.html",
-      "/manuals/ada/yoda.html",
-      "/manuals/ada/help.html",
-      "/manuals/ada/code-examples/Python/1-python-multithreading.html",
-      "/manuals/ada/code-examples/Python/2-python-multiprocessing.html",
-      "/manuals/ada/code-examples/Python/3-torch.html",
-      "/manuals/ada/code-examples/R/1-R-multiprocessing.html",
-      "/manuals/ada/code-examples/matlab.html"
+      "/manuals/ada/index.html",
+      "/manuals/qualtrics/index.html",
+      "/manuals/scistor/index.html",
+      "/manuals/yoda/index.html"
     ]
   },
   {
-    "listing": "/manuals/qualtrics/index.html",
+    "listing": "/manuals/scistor/index.html",
     "items": [
-      "/manuals/qualtrics/qualtrics-faq.html"
+      "/manuals/scistor/scistor-connection.html",
+      "/manuals/scistor/snapshots-data-recovery.html"
     ]
   },
   {
@@ -113,32 +138,59 @@
     ]
   },
   {
-    "listing": "/lifecycle/04-process-analyse.html",
+    "listing": "/guides.html",
     "items": [
-      "/topics/ada.html",
-      "/topics/researchcloud.html",
-      "/topics/safe-data-transfer.html",
-      "/topics/scicloud.html",
-      "/topics/snellius.html",
-      "/topics/compute-hub.html",
+      "/guides/publish-and-share.html",
+      "/guides/comply-with-gdpr.html",
+      "/guides/discover-and-initiate.html",
+      "/guides/collect-and-store.html",
       "/guides/process-and-analyse.html",
-      "/guides/use-osf.html"
+      "/guides/document-and-preserve.html",
+      "/guides/publishing-fair-software.html",
+      "/guides/plan-and-design.html",
+      "/guides/use-osf.html",
+      "/guides/policies-supporting-vision-open-science.html",
+      "/guides/data-lifecycle.html"
     ]
   },
   {
-    "listing": "/lifecycle/03-collect-store.html",
+    "listing": "/blog.html",
     "items": [
-      "/topics/data-backup.html",
-      "/topics/data-collection.html",
-      "/topics/data-protection.html",
-      "/topics/data-storage.html",
-      "/topics/qualtrics.html",
-      "/topics/researchdrive.html",
-      "/topics/safe-data-transfer.html",
-      "/topics/scistor.html",
-      "/topics/yoda.html",
-      "/guides/collect-and-store.html",
-      "/guides/use-osf.html"
+      "/blog/2025-07-28manuals.html",
+      "/blog/2025-07-29itvoblog.html",
+      "/blog/2025-07-24hackathon.html",
+      "/blog/2025-05-15embed-iframe.html",
+      "/blog/2024-11-28hackathon.html",
+      "/blog/2024-11-01hackathon.html",
+      "/blog/2024-10-22post-mortem.html",
+      "/blog/2024-09-30hackathon.html",
+      "/blog/2024-09-05hackathon.html",
+      "/blog/2024-06-27hackathon.html",
+      "/blog/2024-05-23welcome.html"
+    ]
+  },
+  {
+    "listing": "/manuals/ada/index.html",
+    "items": [
+      "/manuals/ada/login.html",
+      "/manuals/ada/quick-start.html",
+      "/manuals/ada/software.html",
+      "/manuals/ada/slurm.html",
+      "/manuals/ada/hardware.html",
+      "/manuals/ada/open-ondemand.html",
+      "/manuals/ada/yoda.html",
+      "/manuals/ada/help.html",
+      "/manuals/ada/code-examples/Python/1-python-multithreading.html",
+      "/manuals/ada/code-examples/Python/2-python-multiprocessing.html",
+      "/manuals/ada/code-examples/Python/3-torch.html",
+      "/manuals/ada/code-examples/R/1-R-multiprocessing.html",
+      "/manuals/ada/code-examples/matlab.html"
+    ]
+  },
+  {
+    "listing": "/manuals/qualtrics/index.html",
+    "items": [
+      "/manuals/qualtrics/qualtrics-faq.html"
     ]
   },
   {
@@ -161,64 +213,19 @@
     ]
   },
   {
-    "listing": "/manuals.html",
+    "listing": "/lifecycle/03-collect-store.html",
     "items": [
-      "/manuals/ada/index.html",
-      "/manuals/qualtrics/index.html",
-      "/manuals/scistor/index.html",
-      "/manuals/yoda/index.html"
-    ]
-  },
-  {
-    "listing": "/blog.html",
-    "items": [
-      "/blog/2025-07-28manuals.html",
-      "/blog/2025-07-24hackathon.html",
-      "/blog/2025-07-29itvoblog.html",
-      "/blog/2025-05-15embed-iframe.html",
-      "/blog/2024-11-28hackathon.html",
-      "/blog/2024-11-01hackathon.html",
-      "/blog/2024-10-22post-mortem.html",
-      "/blog/2024-09-30hackathon.html",
-      "/blog/2024-09-05hackathon.html",
-      "/blog/2024-06-27hackathon.html",
-      "/blog/2024-05-23welcome.html"
-    ]
-  },
-  {
-    "listing": "/guides.html",
-    "items": [
-      "/guides/publish-and-share.html",
-      "/guides/comply-with-gdpr.html",
-      "/guides/discover-and-initiate.html",
+      "/topics/data-backup.html",
+      "/topics/data-collection.html",
+      "/topics/data-protection.html",
+      "/topics/data-storage.html",
+      "/topics/qualtrics.html",
+      "/topics/researchdrive.html",
+      "/topics/safe-data-transfer.html",
+      "/topics/scistor.html",
+      "/topics/yoda.html",
       "/guides/collect-and-store.html",
-      "/guides/process-and-analyse.html",
-      "/guides/document-and-preserve.html",
-      "/guides/publishing-fair-software.html",
-      "/guides/plan-and-design.html",
-      "/guides/use-osf.html",
-      "/guides/policies-supporting-vision-open-science.html",
-      "/guides/data-lifecycle.html"
-    ]
-  },
-  {
-    "listing": "/lifecycle/01-discover-initiate.html",
-    "items": [
-      "/topics/finding-existing-data.html",
-      "/guides/discover-and-initiate.html"
-    ]
-  },
-  {
-    "listing": "/lifecycle/02-plan-design.html",
-    "items": [
-      "/topics/data-classification.html",
-      "/topics/data-management-plan.html",
-      "/topics/data-management-section.html",
-      "/topics/ethical-review.html",
-      "/topics/gdpr.html",
-      "/topics/research-data-and-software-management-policy.html",
-      "/guides/comply-with-gdpr.html",
-      "/guides/plan-and-design.html"
+      "/guides/use-osf.html"
     ]
   },
   {
@@ -234,13 +241,6 @@
       "/topics/selecting-data.html",
       "/topics/yoda.html",
       "/guides/document-and-preserve.html"
-    ]
-  },
-  {
-    "listing": "/manuals/scistor/index.html",
-    "items": [
-      "/manuals/scistor/scistor-connection.html",
-      "/manuals/scistor/snapshots-data-recovery.html"
     ]
   }
 ]
